@@ -8,7 +8,6 @@ Windows 起動時にモバイルホットスポットを On にするための p
 4. hotspot.bat を作成して、中に `powershell c:\somewhere\hotspot.ps1` を記載して保存します。
 
 # 参考
-## 
 * [Enable Windows 10 built-in hotspot by cmd/batch/powershell](https://stackoverflow.com/questions/45833873/enable-windows-10-built-in-hotspot-by-cmd-batch-powershell)
 * [https://superuser.com/questions/1341997/using-a-uwp-api-namespace-in-powershell/1342416#1342416](https://superuser.com/questions/1341997/using-a-uwp-api-namespace-in-powershell/1342416#1342416)
 * [PowerShellで「スクリプトの実行が無効になっています」と出てしまいます。](https://cloudsteady.jp/post/28760/)
