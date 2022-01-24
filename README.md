@@ -1,6 +1,10 @@
 # MobileHotspot
 Windows 起動時にモバイルホットスポットを On にするための powershell スクリプトです。
 
+# 前提
+* Windows10
+* PSVersion 5.1.19041.1320
+
 # 使い方
 1. c:\somewhere\hotspot.ps1 に置きます。（どこにおいても大丈夫です。フォルダはサンプルです。）
 2. windows + r でファイル名を指定して実行を起動
